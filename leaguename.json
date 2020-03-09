@@ -1,0 +1,616 @@
+{
+  "LA": [
+            {
+                "LID": 1918,
+                "N": "Rusya Ulusal Ligi",
+                "CC": "RU",
+                "SO": 20120
+            },
+            {
+                "LID": 2324,
+                "N": "Rusya Süper Lig",
+                "CC": "RU",
+                "SO": 1000
+            },
+            {
+                "LID": 62,
+                "N": "Rusya Premier Lig",
+                "CC": "RU",
+                "SO": 20100
+            },
+            {
+                "LID": 2101,
+                "N": "VTB Birleşik Ligi, Ana Tur",
+                "CC": "INT",
+                "SO": 26010
+            },
+            {
+                "LID": 1273,
+                "N": "Mısır Premier Lig",
+                "CC": "EG",
+                "SO": 15280
+            },
+            {
+                "LID": 1217,
+                "N": "Belarus Kupası",
+                "CC": "BY",
+                "SO": 1000
+            },
+            {
+                "LID": 1913,
+                "N": "Romanya 1. Lig, Düşme Turu",
+                "CC": "RO",
+                "SO": 20010
+            },
+            {
+                "LID": 1858,
+                "N": "Fas Premier Ligi",
+                "CC": "MA",
+                "SO": 7000
+            },
+            {
+                "LID": 2103,
+                "N": "Adriyatik Ligi",
+                "CC": "INT",
+                "SO": 1000
+            },
+            {
+                "LID": 2449,
+                "N": "Türkiye Efeler Ligi",
+                "CC": "TR",
+                "SO": 1000
+            },
+            {
+                "LID": 1779,
+                "N": "İtalya Serie C, C Grubu",
+                "CC": "IT",
+                "SO": 11830
+            },
+            {
+                "LID": 584,
+                "N": "Türkiye Süper Ligi",
+                "CC": "TR",
+                "SO": 20
+            },
+            {
+                "LID": 202,
+                "N": "Polonya Ekstraklasa",
+                "CC": "PL",
+                "SO": 19040
+            },
+            {
+                "LID": 345,
+                "N": "Çek Cumhuriyeti 1. Lig",
+                "CC": "CZ",
+                "SO": 4000
+            },
+            {
+                "LID": 207,
+                "N": "Hırvatistan 1. HNL",
+                "CC": "HR",
+                "SO": 9000
+            },
+            {
+                "LID": 2179,
+                "N": "Türkiye Basketbol Süper Ligi",
+                "CC": "TR",
+                "SO": 10
+            },
+            {
+                "LID": 997,
+                "N": "Polonya 1. Lig",
+                "CC": "PL",
+                "SO": 19070
+            },
+            {
+                "LID": 143,
+                "N": "İtalya Serie A",
+                "CC": "IT",
+                "SO": 90
+            },
+            {
+                "LID": 662,
+                "N": "Danimarka Handboldligaen",
+                "CC": "DK",
+                "SO": 1000
+            },
+            {
+                "LID": 161,
+                "N": "Almanya 3. Lig",
+                "CC": "DE",
+                "SO": 1110
+            },
+            {
+                "LID": 569,
+                "N": "Danimarka Süper Ligi",
+                "CC": "DK",
+                "SO": 5010
+            },
+            {
+                "LID": 1969,
+                "N": "İsveç Kupası, Grup 4",
+                "CC": "SE",
+                "SO": 11590
+            },
+            {
+                "LID": 2332,
+                "N": "İsveç Elitserien, Erkekler",
+                "CC": "SE",
+                "SO": 1000
+            },
+            {
+                "LID": 352,
+                "N": "Romanya 1.Lig, Şampiyonluk Turu",
+                "CC": "RO",
+                "SO": 20020
+            },
+            {
+                "LID": 681,
+                "N": "Hollanda 1. Lig",
+                "CC": "NL",
+                "SO": 9030
+            },
+            {
+                "LID": 1004,
+                "N": "Almanya Bölgesel Lig, Güney Batı",
+                "CC": "DE",
+                "SO": 1140
+            },
+            {
+                "LID": 2439,
+                "N": "Polonya Erkekler 1.Ligi",
+                "CC": "PL",
+                "SO": 1000
+            },
+            {
+                "LID": 132,
+                "N": "Almanya Bundesliga 2",
+                "CC": "DE",
+                "SO": 1090
+            },
+            {
+                "LID": 614,
+                "N": "Fransa Ligue 2",
+                "CC": "FR",
+                "SO": 7160
+            },
+            {
+                "LID": 1897,
+                "N": "Portekiz 2. Lig",
+                "CC": "PT",
+                "SO": 19190
+            },
+            {
+                "LID": 134,
+                "N": "İngiltere Ulusal Lig, Kuzey",
+                "CC": "GB",
+                "SO": 11280
+            },
+            {
+                "LID": 43,
+                "N": "İngiltere Premier Lig",
+                "CC": "GB",
+                "SO": 60
+            },
+            {
+                "LID": 1881,
+                "N": "Peru Primera Ligi, Açılış",
+                "CC": "PE",
+                "SO": 19020
+            },
+            {
+                "LID": 1774,
+                "N": "İtalya Serie B",
+                "CC": "IT",
+                "SO": 11800
+            },
+            {
+                "LID": 2783,
+                "N": "Arjantin Primera Nacional, Gr A",
+                "CC": "AR",
+                "SO": 1290
+            },
+            {
+                "LID": 49,
+                "N": "Şili Premier Lig",
+                "CC": "CL",
+                "SO": 22010
+            },
+            {
+                "LID": 1202,
+                "N": "Arjantin Superliga",
+                "CC": "AR",
+                "SO": 1230
+            },
+            {
+                "LID": 1229,
+                "N": "Brezilya Paulista, Seri A1",
+                "CC": "BR",
+                "SO": 2170
+            },
+            {
+                "LID": 138,
+                "N": "Amerikan Basketbol Ligi",
+                "CC": "US",
+                "SO": 30
+            },
+            {
+                "LID": 5161,
+                "N": "Ekvador Pro Lig",
+                "CC": "EC",
+                "SO": 6000
+            },
+            {
+                "LID": 1585,
+                "N": "AFC Asya Kupası, H Grubu",
+                "CC": "INT",
+                "SO": 1520
+            },
+            {
+                "LID": 1583,
+                "N": "AFC Asya Kupası, F Grubu",
+                "CC": "INT",
+                "SO": 1500
+            },
+            {
+                "LID": 1980,
+                "N": "Türkiye 1. Lig",
+                "CC": "TR",
+                "SO": 30
+            },
+            {
+                "LID": 1822,
+                "N": "Malezya Süper Ligi",
+                "CC": "MY",
+                "SO": 15040
+            },
+            {
+                "LID": 2029,
+                "N": "Yunanistan Basketbol Ligi",
+                "CC": "GR",
+                "SO": 27000
+            },
+            {
+                "LID": 2006,
+                "N": "BAE Başkanlık Kupası",
+                "CC": "AE",
+                "SO": 2010
+            },
+            {
+                "LID": 1201,
+                "N": "Cezayir Kupası",
+                "CC": "DZ",
+                "SO": 1000
+            },
+            {
+                "LID": 1777,
+                "N": "İtalya Serie C, A Grubu",
+                "CC": "IT",
+                "SO": 11810
+            },
+            {
+                "LID": 1778,
+                "N": "İtalya Serie C, B Grubu",
+                "CC": "IT",
+                "SO": 11820
+            },
+            {
+                "LID": 1234,
+                "N": "Şili Primera B",
+                "CC": "CL",
+                "SO": 22010
+            },
+            {
+                "LID": 1896,
+                "N": "Polonya Kupası",
+                "CC": "PL",
+                "SO": 19050
+            },
+            {
+                "LID": 742,
+                "N": "Güney Afrika Premier Lig",
+                "CC": "ZA",
+                "SO": 8060
+            },
+            {
+                "LID": 598,
+                "N": "Avusturya 1. Lig",
+                "CC": "AT",
+                "SO": 1520
+            },
+            {
+                "LID": 2321,
+                "N": "Norveç  Eliteserien",
+                "CC": "NO",
+                "SO": 1000
+            },
+            {
+                "LID": 129,
+                "N": "İspanya La Liga",
+                "CC": "ES",
+                "SO": 70
+            },
+            {
+                "LID": 1332,
+                "N": "İzlanda Lig Kupası A, Gr 1",
+                "CC": "IS",
+                "SO": 11985
+            },
+            {
+                "LID": 24,
+                "N": "İngiltere 1. Lig",
+                "CC": "GB",
+                "SO": 11010
+            },
+            {
+                "LID": 12,
+                "N": "İngiltere 2. Lig",
+                "CC": "GB",
+                "SO": 11020
+            },
+            {
+                "LID": 401,
+                "N": "İngiltere Ulusal Lig",
+                "CC": "GB",
+                "SO": 11260
+            },
+            {
+                "LID": 613,
+                "N": "İskoçya Championship",
+                "CC": "GB",
+                "SO": 11370
+            },
+            {
+                "LID": 577,
+                "N": "İskoçya 2. Lig",
+                "CC": "GB",
+                "SO": 11420
+            },
+            {
+                "LID": 590,
+                "N": "İskoçya 1. Lig",
+                "CC": "GB",
+                "SO": 11410
+            },
+            {
+                "LID": 140,
+                "N": "İngiltere Ulusal Lig, Güney",
+                "CC": "GB",
+                "SO": 11270
+            },
+            {
+                "LID": 126,
+                "N": "UEFA Şampiyonlar Ligi",
+                "CC": "INT",
+                "SO": 40
+            },
+            {
+                "LID": 1207,
+                "N": "Arjantin Kupası",
+                "CC": "AR",
+                "SO": 1220
+            },
+            {
+                "LID": 1232,
+                "N": "Brezilya Kupası",
+                "CC": "BR",
+                "SO": 2160
+            },
+            {
+                "LID": 1559,
+                "N": "Copa Libertadores, B Grubu",
+                "CC": "INT",
+                "SO": 3250
+            },
+            {
+                "LID": 1562,
+                "N": "Copa Libertadores, E Grubu",
+                "CC": "INT",
+                "SO": 3280
+            },
+            {
+                "LID": 1564,
+                "N": "Copa Libertadores, G Grubu",
+                "CC": "INT",
+                "SO": 3300
+            },
+            {
+                "LID": 1242,
+                "N": "Kolombiya Primera A, Açılış",
+                "CC": "CO",
+                "SO": 13210
+            },
+            {
+                "LID": 1606,
+                "N": "CONCACAF Şampiyonlar Ligi, Elm",
+                "CC": "INT",
+                "SO": 3060
+            },
+            {
+                "LID": 1565,
+                "N": "Copa Libertadores, H Grubu",
+                "CC": "INT",
+                "SO": 3310
+            },
+            {
+                "LID": 4763,
+                "N": "Meksika Kupası, Eleme Turu",
+                "CC": "MX",
+                "SO": 15100
+            },
+            {
+                "LID": 2000,
+                "N": "Ukrayna Kupası",
+                "CC": "UA",
+                "SO": 1000
+            },
+            {
+                "LID": 45,
+                "N": "Almanya Bundesliga",
+                "CC": "DE",
+                "SO": 80
+            },
+            {
+                "LID": 149,
+                "N": "İskoçya Premiership",
+                "CC": "GB",
+                "SO": 11390
+            },
+            {
+                "LID": 1560,
+                "N": "Copa Libertadores, C Grubu",
+                "CC": "INT",
+                "SO": 3260
+            },
+            {
+                "LID": 1561,
+                "N": "Copa Libertadores, D Grubu",
+                "CC": "INT",
+                "SO": 3270
+            },
+            {
+                "LID": 1558,
+                "N": "Copa Libertadores, A Grubu",
+                "CC": "INT",
+                "SO": 3240
+            },
+            {
+                "LID": 2092,
+                "N": "EuroLeague",
+                "CC": "INT",
+                "SO": 20
+            },
+            {
+                "LID": 588,
+                "N": "UEFA Avrupa Ligi",
+                "CC": "INT",
+                "SO": 50
+            },
+            {
+                "LID": 302,
+                "N": "Danimarka 1.Lig",
+                "CC": "DK",
+                "SO": 5020
+            },
+            {
+                "LID": 665,
+                "N": "Fransa LNH Starligue",
+                "CC": "FR",
+                "SO": 1000
+            },
+            {
+                "LID": 5461,
+                "N": "Cebelitarık Açık",
+                "CC": "INT",
+                "SO": 1000
+            },
+            {
+                "LID": 381,
+                "N": "Fransa Ligue 1",
+                "CC": "FR",
+                "SO": 100
+            },
+            {
+                "LID": 52,
+                "N": "İngiltere Championship",
+                "CC": "GB",
+                "SO": 11000
+            },
+            {
+                "LID": 1983,
+                "N": "Türkiye Kupası",
+                "CC": "TR",
+                "SO": 25
+            },
+            {
+                "LID": 666,
+                "N": "Eurocup",
+                "CC": "INT",
+                "SO": 1000
+            },
+            {
+                "LID": 343,
+                "N": "Fransa Kupası",
+                "CC": "FR",
+                "SO": 7140
+            },
+            {
+                "LID": 579,
+                "N": "Serie A",
+                "CC": "IT",
+                "SO": 1000
+            },
+            {
+                "LID": 2023,
+                "N": "Fransa Basketbol Ligi",
+                "CC": "FR",
+                "SO": 7180
+            },
+            {
+                "LID": 322,
+                "N": "Hollanda Eredivisie",
+                "CC": "NL",
+                "SO": 110
+            },
+            {
+                "LID": 262,
+                "N": "Yunanistan Süper Lig",
+                "CC": "GR",
+                "SO": 27020
+            },
+            {
+                "LID": 605,
+                "N": "İtalya Kupası",
+                "CC": "IT",
+                "SO": 11790
+            },
+            {
+                "LID": 566,
+                "N": "Portekiz Premier Lig",
+                "CC": "PT",
+                "SO": 120
+            },
+            {
+                "LID": 152,
+                "N": "İngiltere Federasyon Kupası",
+                "CC": "GB",
+                "SO": 11050
+            },
+            {
+                "LID": 130,
+                "N": "Almanya Kupası",
+                "CC": "DE",
+                "SO": 1000
+            },
+            {
+                "LID": 53,
+                "N": "Euroleague",
+                "CC": "INT",
+                "SO": 1000
+            },
+            {
+                "LID": 622,
+                "N": "İspanya Kral Kupası",
+                "CC": "ES",
+                "SO": 11520
+            },
+            {
+                "LID": 619,
+                "N": "Almanya Basketbol Ligi",
+                "CC": "DE",
+                "SO": 90
+            },
+            {
+                "LID": 602,
+                "N": "Liga ACB",
+                "CC": "ES",
+                "SO": 1000
+            },
+            {
+                "LID": 596,
+                "N": "Avrupa Şampiyonası",
+                "CC": "INT",
+                "SO": 1000
+            }
+        ]
+}
